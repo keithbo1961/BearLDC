@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: BearLDC, Configuration: Release x64 ------
+1>AgentServer.cpp
+1>c:\src1\bearldc\bearldc\bearldc\agentserver.cpp(91): error C2146: syntax error: missing ';' before identifier 'Client'
+1>c:\src1\bearldc\bearldc\bearldc\agentserver.cpp(91): error C2065: 'nThreadID': undeclared identifier
+1>connect.cpp
+1>Done building project "BearLDC.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
